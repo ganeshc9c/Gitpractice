@@ -1,5 +1,5 @@
 pubilc class{
-public void addUser(){
+public void addUser(){{
 System.out.println("welcome");
 }
 }
