@@ -1,0 +1,5 @@
+pubilc class{
+public void addUser(){
+System.out.println("welcome");
+}
+}
